@@ -1,5 +1,5 @@
 #ADMOB#
-google.com, pub-9115196043560700, DIRECT, f08c47fec0942fa0
+google.com, pub-7290047108334204, DIRECT, f08c47fec0942fa0
 
 #FYBER#
 Resellers as of Feb. 24th, 2023
